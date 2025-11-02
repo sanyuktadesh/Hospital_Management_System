@@ -1,6 +1,6 @@
 # SOFTWARE REQUIREMENTS SPECIFICATION
 # HOSPITAL MANAGEMENT SYSTEM
-# Version 1.0
+# Version 2.0
 
 ## 1. INTRODUCTION
 ### 1.1 Purpose
@@ -18,3 +18,12 @@ This document describes the requirements for the Hospital Management System.
 - Update doctor profiles
 - View specializations
 
+### 2.3 Appointment Management Module
+- Book appointments
+- Cancel appointments
+- View doctor availability
+
+### 2.4 Billing Module
+- Generate bills
+- Process payments
+- Store receipts
