@@ -1,0 +1,14 @@
+# DFD Level 0 — Hospital Management System
+
+Entities:
+- Patient
+- Receptionist
+- Doctor
+- Billing System
+- Inventory
+
+High-level process:
+1. Patient Registration & Appointment Booking
+2. Consultation & Medical Record Update
+3. Billing & Payment
+4. Inventory usage and replenishment
