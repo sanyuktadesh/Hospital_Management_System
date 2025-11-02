@@ -1,6 +1,6 @@
 # SOFTWARE REQUIREMENTS SPECIFICATION
 # HOSPITAL MANAGEMENT SYSTEM
-# Version 2.0
+# Version 3.0
 
 ## 1. INTRODUCTION
 ### 1.1 Purpose
@@ -27,3 +27,10 @@ This document describes the requirements for the Hospital Management System.
 - Generate bills
 - Process payments
 - Store receipts
+
+
+### 2.5 Medical Records Management Module
+- Store patient diagnosis
+- Store prescriptions
+- Upload medical reports
+- View past treatment history
